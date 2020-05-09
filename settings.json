@@ -1,0 +1,16 @@
+{
+        "env_name": "Pendulum-v0",
+        "s_dim": 3,
+        "a_dim": 1,
+        "max_episode": 1,
+        "max_sample_step": 256,
+        "discount": 0.9,
+        "td": true,
+        "epsilon": 0.2,
+        "actor_lr": 0.0001,
+        "critic_lr": 0.0002,
+        "batch_size": 64,
+        "max_update_step": 10,
+        "max_iteration": 1000,
+        "update_actor_step": 10
+}
