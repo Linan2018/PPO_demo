@@ -15,4 +15,4 @@ python main.py -s settings.json
 
 ![](https://github.com/Linan2018/PPO_demo/blob/master/result.png)
 
-(for one shot)
+(for one exp)
