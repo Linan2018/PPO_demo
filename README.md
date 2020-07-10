@@ -15,4 +15,4 @@ python main.py -s settings.json
 
 ![](./result.png)
 
-(for one exp)
+(for 10 exps)
