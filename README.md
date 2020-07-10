@@ -13,6 +13,6 @@ python main.py -s settings.json
 
 ## Result
 
-![](https://github.com/Linan2018/PPO_demo/blob/master/result.png)
+![](./result.png)
 
 (for one exp)
